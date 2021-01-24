@@ -2,11 +2,24 @@
 
 <br/>
 
-### [Development](./Development.md)
+## 01. React with Typescript
+
+    $ cd apps
+    $ npx create-react-app app1 --template typescript
+
+    $ npm run start
 
 <br/>
 
 ![Application](/img/pic-m01-p01.png?raw=true)
+
+<br/>
+
+## 02 Types Around Props and State
+
+<br/>
+
+![Application](/img/pic-m02-p01.png?raw=true)
 
 <br/><br/>
 
