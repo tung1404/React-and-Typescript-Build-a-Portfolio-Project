@@ -21,6 +21,10 @@
 
 ![Application](/img/pic-m02-p01.png?raw=true)
 
+<br/>
+
+## 03 Types Around Events and Refs
+
 <br/><br/>
 
 ---

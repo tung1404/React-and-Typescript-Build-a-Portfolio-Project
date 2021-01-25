@@ -2,11 +2,7 @@
 
 <br/>
 
-### [Development](./Development.md)
-
-<br/>
-
-![Application](/img/pic-m01-p01.png?raw=true)
+### [Development App1](./Development-App1.md)
 
 <br/><br/>
 
