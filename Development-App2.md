@@ -33,6 +33,14 @@ http://registry.npmjs.org/-/v1/search?text=react
 
 <br/>
 
+![Application](/img/pic-m04-p05.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m04-p06.png?raw=true)
+
+<br/>
+
 <br/><br/>
 
 ---
